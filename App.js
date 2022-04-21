@@ -4,7 +4,7 @@ import { createStackNavigator } from "@react-navigation/stack";
 import { NavigationContainer } from '@react-navigation/native'
 
 import { Restaurant, OrderDelivery } from './screens'
-import Tabs from './navigation/tabs'
+import Tabs from './navigations/tabs'
 
 const Stack = createStackNavigator();
 
